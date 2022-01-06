@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://meganero.com
+
+# Sitemaps
+Sitemap: https://meganero.com/sitemap.xml
